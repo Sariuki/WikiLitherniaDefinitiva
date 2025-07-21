@@ -1,0 +1,4 @@
+name = "mi-sitio"
+compatibility_date = "2025-07-21"
+main = "src/index.js"
+assets = { directory = "exportado_html" }
