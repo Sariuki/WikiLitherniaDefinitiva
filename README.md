@@ -1,2 +1,0 @@
-# WikiLitherniaDefinitiva
-Export Obsidian → HTML
