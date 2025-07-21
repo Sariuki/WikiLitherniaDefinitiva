@@ -1,3 +1,7 @@
-name = "mi-vault-wiki"
+name = "wiki-lithernia"
 compatibility_date = "2025-07-21"
+
+[assets]
+directory = "./"
+
 
